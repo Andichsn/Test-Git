@@ -18,3 +18,5 @@ print("===========================================")
 base64_decryption = base64.decodebytes(base64_encryption)
 print("Hasil Enkripsi   : ", base64_decryption)
 print("Hasil Enkripsi 2 : ", base64_decryption.decode('utf-8'))
+
+#Percobaan melakukan revisi dan melakukan commit ulang
